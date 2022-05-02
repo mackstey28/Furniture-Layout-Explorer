@@ -39,3 +39,10 @@ Don't forget to add  `<script src="furniture.js"></script>` in index.html like s
 ```
 
 Lastly, you need to add the images I created for the thumbnails. You can just create a folder called `images` and use `Upload Files` from the arrow dropdown, then drag all images from `Furniture-Layout-Explorer/images` into this `images` folder you created in p5.js.
+
+TO RUN IT, just click the giant run button:
+
+![](https://media.discordapp.net/attachments/897486164527829103/970786974954844220/unknown.png)
+
+And to stop it, click the stop button on the right.
+
